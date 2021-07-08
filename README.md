@@ -27,5 +27,4 @@ To expose the  best combinatin  for  strategy games available in the AppStore in
 **Current version  release  date:** When it  was last updated. <br>
 
 ## Dataset
-1. Data_Train (2).xlsx
-2. Data_Test (2).xlsx
+1. appstore_games (2).csv
